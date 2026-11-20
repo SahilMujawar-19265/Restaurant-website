@@ -12,8 +12,12 @@
 </p>
 
 <p align="center">
+  <a href="https://restaurant-website-ruddy-mu.vercel.app/">🌐 Live Application</a> •
+  <a href="https://github.com/SahilMujawar-19265/Restaurant-website">💻 Source Code</a>
+</p>
+
+<p align="center">
   <a href="#-features">Features</a> •
-  <a href="#-screenshots">Screenshots</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-getting-started">Getting Started</a> •
   <a href="#-project-structure">Project Structure</a>
@@ -44,22 +48,10 @@ The interface uses smooth scrolling and motion effects to create an engaging din
 - 🌊 **Smooth Scrolling** — Enhanced scrolling powered by Lenis.
 - 🎞️ **Motion Effects** — Interactive animations with Motion.
 
-## 🖼️ Screenshots
+## 🔗 Project Links
 
-> Add screenshots of the running website here to give visitors a quick visual preview.
-
-```text
-public/
-└── assets/
-```
-
-Place project screenshots in `public/assets` and update the following section with image links:
-
-```markdown
-<p align="center">
-  <img src="public/assets/preview.png" alt="Restaurant Website Preview" />
-</p>
-```
+- **Live Application:** [https://restaurant-website-ruddy-mu.vercel.app/](https://restaurant-website-ruddy-mu.vercel.app/)
+- **Source Code:** [https://github.com/SahilMujawar-19265/Restaurant-website](https://github.com/SahilMujawar-19265/Restaurant-website)
 
 ## 🛠️ Tech Stack
 
